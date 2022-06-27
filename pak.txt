@@ -1,0 +1,4 @@
+changes_2 merge hell
+Branch ft2
+Hello, this is first file.
+
